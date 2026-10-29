@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+# Your journal database, screenshots and the keys that encrypt your IBKR token
+App_Data/
